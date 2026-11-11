@@ -23,6 +23,9 @@
 - [Best HVAC Contractor Ma Cambridge](https://local-business-guides.github.io/hunter-and-sons-ac-and-cooling-cambridge/best-hvac-contractor-ma-cambridge/): Best HVAC Contractor Ma Cambridge: get practical guidance for home comfort in Cambridge, Massachusetts. Call Hunter & Sons AC & Cooling to talk.
 - [Top Rated HVAC Contractor Ma Cambridge](https://local-business-guides.github.io/hunter-and-sons-ac-and-cooling-cambridge/top-rated-hvac-contractor-ma-cambridge/): Top Rated HVAC Contractor Ma Cambridge: talk through heating and cooling needs in Cambridge, MA. Call Hunter & Sons AC & Cooling today.
 
+## Newsroom
+- [Hunter & Sons AC & Cooling Shares Cambridge HVAC Contractor Guide](https://local-business-guides.github.io/hunter-and-sons-ac-and-cooling-cambridge/news/2026-11-11-hunter-sons-ac-cooling-shares-cambridge-hvac/): Hunter & Sons AC & Cooling published a Cambridge HVAC guide, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-11)
+
 ## Pages
 - [HVAC Contractor in Cambridge, Massachusetts](https://local-business-guides.github.io/hunter-and-sons-ac-and-cooling-cambridge/): Get thoughtful heating and cooling service for your Cambridge home or business from Hunter & Sons AC & Cooling. Call +1339-220-5000.
 - [About Hunter & Sons AC & Cooling](https://local-business-guides.github.io/hunter-and-sons-ac-and-cooling-cambridge/about/): About Hunter & Sons AC & Cooling, Cambridge.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/hunter-and-sons-ac-and-cooling-cambridge/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/hunter-and-sons-ac-and-cooling-cambridge/news/rss.xml)
 - [Main resource site](https://hunter-sons-cambridge-hvac.localbusinesses1.chatgpt.site)
